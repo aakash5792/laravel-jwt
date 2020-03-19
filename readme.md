@@ -1,6 +1,6 @@
-=================================================================================================
+========================
 Introduction
-=================================================================================================
+========================
 
 Hi Guys ,
 My name is Akash Yellgetti,I m being using laravel framework 5.3 for few months,
@@ -31,9 +31,9 @@ i had previously migrated the migration so i deleting migration and will do it a
 i thing  download is completed so.there was some issues i have resolved it now its downloaded 
 
 
-===================================================================================================
+==================
 Steps
-===================================================================================================
+==================
 Step 1:-
 Install Laravel 
 composer create-project --prefer-dist laravel/laravel example.com
